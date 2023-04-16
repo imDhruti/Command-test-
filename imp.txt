@@ -10,3 +10,9 @@ git status (to check uploaded file status (modified:   imp.txt if file is modifi
 
  git commit -m "git command first commit"(-m for modified file status and "backup message" commit for upload files)
 
+
+git status 
+git add .
+git commit -m "message"
+
+
