@@ -4,6 +4,9 @@ git config user.email (email)
 
 git add .(to add all files)
 git add index.html(to add spacific file)
+git add index.html imp.txt (to upload multiple files by name)
 
 git status (to check uploaded file status (modified:   imp.txt if file is modified after --add .))
+
+ git commit -m "git command first commit"(-m for modified file status and "backup message" commit for upload files)
 
